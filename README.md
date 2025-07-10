@@ -14,14 +14,7 @@ PostCSS 8.4.35 - CSS processing with Autoprefixer
 Lucide React 0.344.0 - Icon library for UI elements
 Project Structure
 
-src/
-├── App.tsx              # Main application component
-├── main.tsx            # Application entry point
-├── index.css           # Global styles and Tailwind imports
-└── vite-env.d.ts       # Vite type definitions
 
-public/
-└── vite.svg            # Default Vite favicon
 
 config files:
 ├── package.json        # Dependencies and scripts
