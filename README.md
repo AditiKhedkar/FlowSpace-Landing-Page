@@ -14,17 +14,6 @@ PostCSS 8.4.35 - CSS processing with Autoprefixer
 Lucide React 0.344.0 - Icon library for UI elements
 Project Structure
 
-
-
-config files:
-├── package.json        # Dependencies and scripts
-├── vite.config.ts      # Vite configuration
-├── tailwind.config.js  # Tailwind CSS configuration
-├── postcss.config.js   # PostCSS configuration
-├── tsconfig.json       # TypeScript configuration
-├── tsconfig.app.json   # App-specific TypeScript config
-├── tsconfig.node.json  # Node-specific TypeScript config
-└── eslint.config.js    # ESLint configuration
 Component Architecture
 App Component (src/App.tsx)
 The main application component implements a single-page layout with the following sections:
