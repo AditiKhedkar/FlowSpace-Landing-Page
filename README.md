@@ -1,6 +1,10 @@
 
 ![image](https://github.com/user-attachments/assets/f24c8b87-0b90-4164-a348-88f90e3977f0)
-FlowSpace is a production-ready single-page application (SPA) built as a product landing page for an AI-powered workspace management platform. The application showcases modern web development practices with a focus on performance, accessibility, and conversion optimization.
+
+
+
+FlowSpace is a production-ready single-page application (SPA) built as a product landing page for an AI-powered workspace management platform. 
+The application showcases modern web development practices with a focus on performance, accessibility, and conversion optimization.
 DEPLOYED ON https://flowspace-landing-page.netlify.app/
 Technology Stack
 Core Technologies
